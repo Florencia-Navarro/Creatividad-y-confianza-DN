@@ -3773,7 +3773,7 @@ textarea.form-control-lg {
   padding-bottom: var(--bs-navbar-brand-padding-y);
   margin-right: var(--bs-navbar-brand-margin-end);
   font-size: var(--bs-navbar-brand-font-size);
-  color: #FFD700;
+  
   text-decoration: none;
   white-space: nowrap;
   font-family: 'Cinzel', serif;
@@ -10860,7 +10860,7 @@ html {
   width: 100%;
   max-width: 7rem;
   height: 0.25rem;
-  background-color: rgb(25, 38, 85);
+  background-color: #F0E68C;
   border-radius: 1rem;
   border-color: #2c3e50;
 }
@@ -10871,7 +10871,7 @@ html {
   margin-left: 1rem;
 }
 .divider-custom .divider-custom-icon {
-  color:rgb(25, 38, 85);
+  color:#F0E68C;
   font-size: 2rem;
 }
 .divider-custom.divider-light .divider-custom-line {
@@ -10903,7 +10903,7 @@ html {
   font-weight: 700;
 }
 #mainNav .navbar-brand {
-  color: #F0E68C;
+  color: #D63484;
 }
 #mainNav .navbar-nav {
   margin-top: 1rem;
@@ -10979,7 +10979,7 @@ html {
 .masthead {
   padding-top: calc(6rem + 74px);
   padding-bottom: 6rem;
-  background-image: url('../assets/img/banner-inicio.jpg'); 
+  background-image: url('../assets/img/banner-inicio.svg'); 
   background-size: cover;
   background-position: center; 
   background-repeat: no-repeat;
